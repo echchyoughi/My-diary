@@ -1,6 +1,6 @@
-# My Diary Monorepo
+# My Diary 
 
-Full-stack diary web app with:
+Diary web app with:
 
 - `client` - React + Vite + Tailwind CSS
 - `server` - Node.js + Express + Prisma + SQLite (easy local) or PostgreSQL
