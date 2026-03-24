@@ -1,4 +1,3 @@
-# My Diary 
 
 Diary web app with:
 
