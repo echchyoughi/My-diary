@@ -76,3 +76,5 @@ npm run dev
 - Dashboard includes search and month filter.
 - Rich text editor uses React Quill.
 - Admin panel is visible only when logged-in email matches `VITE_ADMIN_EMAIL`.
+
+- still working
